@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\bin\Debug\net6.0\Encaptulation.exe
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\bin\Debug\net6.0\Encaptulation.deps.json
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\bin\Debug\net6.0\Encaptulation.runtimeconfig.json
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\bin\Debug\net6.0\Encaptulation.dll
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\bin\Debug\net6.0\Encaptulation.pdb
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.dll
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\refint\Encaptulation.dll
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.pdb
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\Encaptulation.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Encaptulation\Encaptulation\obj\Debug\net6.0\ref\Encaptulation.dll
